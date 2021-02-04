@@ -6,7 +6,7 @@
 # Thank for 𝐄𝐋𝐅𝐎𝐗
 # Thank Dhenza & Greet
 
-# Login via  Token  & email
+# Login via email
 # ====INSTALL MELALUI VPS===== 
 # sudo apt-get update
 # sudo apt-get install git
